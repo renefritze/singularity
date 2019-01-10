@@ -1,2 +1,2 @@
 Bootstrap: docker
-From pymor/demo:master
+From: pymor/demo:master
