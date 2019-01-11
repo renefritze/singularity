@@ -1,2 +1,5 @@
 Bootstrap: docker
 From: pymor/demo:master
+
+%runscript
+  /bin/bash
